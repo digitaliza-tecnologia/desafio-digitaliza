@@ -2,8 +2,13 @@
 
 Olá, você quer ser desenvolvedor na Digitaliza?
 Então criamos este teste para avaliar alguns pontos tecnicos como desenvolvedor BackEnd!
+Você terá um teste para resolver, e dois formulários teóricos a ser respondidos!
 
-## Teste 
+## Formulários Teóricos:
+- Teste de Mysql/MariaDB: https://docs.google.com/forms/d/e/1FAIpQLSdv25HG_75YuUzTk_5J3PDqXd08BP_NQy1Yw3S9TYxh7_yG4Q/viewform?usp=sf_link
+- Teste de Shell Linux (Debian, Ubuntu): https://docs.google.com/forms/d/e/1FAIpQLSeCY6PakOvY_JCjJs6uTwQ_nEEozoMilxODf_jcI22V1Qvtgw/viewform?usp=sf_link
+
+## Teste Prático
 O desafio é desenvolver um sistema para câmaras de cadastro, e exibição de projetos de lei ao público.
 O sistema terá 3 lados,sendo um lado master, outro do vereador e um público.
 
