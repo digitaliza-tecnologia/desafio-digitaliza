@@ -10,16 +10,11 @@ Você terá um teste para resolver, e dois formulários teóricos a ser respondi
 
 ## Teste Prático
 O desafio é desenvolver um sistema para câmaras de cadastro, e exibição de projetos de lei ao público.
-O sistema terá 3 lados,sendo um lado master, outro do vereador e um público.
+O sistema terá 2 lados,sendo um vereador e um público.
 
 O Projeto não precisa ser focado com o front end, não precisa se atentar a detalhes estéticos nesta parte, podendo até usar algum template pronto gratuito da internet.
 
-### Lado Master
-O Usuário master terá a possibilidade de cadastrar novos vereadores e comissões.
-- Os vereadores terão dados de login e suas informações pessoais.
-- As comissões terão
-  - Dados sobre a comissão: como nome da comissão e partido.
-  - E as comissões terão vereadores vinculados a mesma, onde uma comissão poderá ter varios vereadores e um vereador poderá fazer parte de várias comissões.
+Não é necessário desenvolver um cadastro de comissões e usuários, para isso pode ser criado uma seed para popular as tabelas de usuários e comissões
 
 ### Lado Vereador
 
